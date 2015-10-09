@@ -14,7 +14,6 @@ module.exports = React.createClass({
               <a href='https://twitter.com/naomimusgrave'><li>Naomi Musgrave</li></a>
               <a href='https://twitter.com/NavidAzodi'><li>Navid Azodi</li></a>
               <a href='http://davidcoven.me'><li>David Coven</li></a>
-              <a href='https://twitter.com/karangoel'><li>Karan Goel</li></a>
               <a href='http://anwell.me/'><li>Anwell Wang</li></a>
               <a href='http://christopher.su/'><li>Christopher Su</li></a>
               <a href='http://www.lucascolusso.com/'><li>Lucas Colusso</li></a>
