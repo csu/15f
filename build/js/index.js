@@ -22017,7 +22017,11 @@ module.exports = React.createClass({displayName: "exports",
               React.createElement("p", null, "Undergraduate university and high school students of all backgrounds are encouraged to apply and attend DubHacks.")
             ), 
             React.createElement("li", {className: "qa"}, 
-              React.createElement("h4", {className: "question"}, "Travel reimbursement?"), 
+              React.createElement("h4", {className: "question"}, "Where is it?"), 
+              React.createElement("p", null, "The opening and closing ceremonies will take place in Kane Hall on the University of Washington campus. Hacking and other activities will take place in Johnson Hall and Mary Gates Hall.")
+            ), 
+            React.createElement("li", {className: "qa"}, 
+              React.createElement("h4", {className: "question"}, "What about travel reimbursement?"), 
               React.createElement("p", null, "We will provide travel reimbursement to select participants. Up to $150 travel reimbursement for out-of-state students and up to $50 for in-state participants provided a valid receipt.")
             ), 
             React.createElement("li", {className: "qa"}, 
