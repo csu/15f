@@ -16,7 +16,11 @@ module.exports = React.createClass({
               <p>Undergraduate university and high school students of all backgrounds are encouraged to apply and attend DubHacks.</p>
             </li>
             <li className='qa'>
-              <h4 className='question'>Travel reimbursement?</h4>
+              <h4 className='question'>Where is it?</h4>
+              <p>The opening and closing ceremonies will take place in Kane Hall on the University of Washington campus. Hacking and other activities will take place in Johnson Hall and Mary Gates Hall.</p>
+            </li>
+            <li className='qa'>
+              <h4 className='question'>What about travel reimbursement?</h4>
               <p>We will provide travel reimbursement to select participants. Up to $150 travel reimbursement for out-of-state students and up to $50 for in-state participants provided a valid receipt.</p>
             </li>
             <li className='qa'>
