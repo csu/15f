@@ -47,6 +47,7 @@ module.exports = React.createClass({
             <li><a href="http://www.shippable.com/" target="_blank"><img ref='img' src='images/company_logos/shippable.png' /></a></li>
             <li><a href="http://www.wolfram.com/" target="_blank"><img ref='img' src='images/company_logos/wolfram.png' /></a></li>
             <li><a href="https://www.waopportunityscholarship.org/" target="_blank"><img ref='img' src='images/company_logos/wsos.png' /></a></li>
+            <li><a href="https://www.tune.com/" target="_blank"><img ref='img' src='images/company_logos/tune.png' /></a></li>
           </ul>
           <h2 className='section title'>Partners</h2>
           <ul className='partners'>
