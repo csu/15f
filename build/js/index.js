@@ -22400,6 +22400,7 @@ module.exports = React.createClass({displayName: "exports",
             React.createElement("li", null, React.createElement("a", {href: "https://www.namecheap.com/", target: "_blank"}, React.createElement("img", {ref: "img", src: "images/company_logos/namecheap.png"}))), 
             React.createElement("li", null, React.createElement("a", {href: "http://www.shippable.com/", target: "_blank"}, React.createElement("img", {ref: "img", src: "images/company_logos/shippable.png"}))), 
             React.createElement("li", null, React.createElement("a", {href: "http://www.wolfram.com/", target: "_blank"}, React.createElement("img", {ref: "img", src: "images/company_logos/wolfram.png"}))), 
+            React.createElement("li", null, React.createElement("a", {href: "https://comotion.uw.edu/", target: "_blank"}, React.createElement("img", {ref: "img", src: "images/company_logos/comotion.svg"}))), 
             React.createElement("li", null, React.createElement("a", {href: "https://www.waopportunityscholarship.org/", target: "_blank"}, React.createElement("img", {ref: "img", src: "images/company_logos/wsos.png"}))), 
             React.createElement("li", null, React.createElement("a", {href: "https://www.tune.com/", target: "_blank"}, React.createElement("img", {ref: "img", src: "images/company_logos/tune.png"})))
           ), 
